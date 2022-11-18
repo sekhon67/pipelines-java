@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/CA-ITS/TestProject/_apis/build/status/sekhon67.pipelines-java?branchName=main)](https://dev.azure.com/CA-ITS/TestProject/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
